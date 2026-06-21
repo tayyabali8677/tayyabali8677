@@ -14,11 +14,38 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Building **Prep Titans LMS** — Pakistan's #1 MDCAT prep platform
-- 🌍 Founder of **TitansAbroad.org** — MBBS abroad guidance for Pakistani students
+- 🎓 Building **[Prep Titans LMS](https://preptitanslms.com)** — Pakistan's #1 MDCAT prep platform
+- 🌍 Founder of **[TitansAbroad.org](https://titansabroad.org)** — MBBS abroad guidance for Pakistani students
 - 🤖 Building AI-powered tools, WhatsApp agents, and automations
 - 🖥️ Creator of **Desktop Cat** — an Electron desktop companion
 - ⚡ Always building something new
+
+<br>
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-tayyab-ali-57a4123b6)
+[![Facebook](https://img.shields.io/badge/Facebook-FF0080?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tayyab.mughal.39501)
+[![Instagram](https://img.shields.io/badge/Instagram-00D4FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faraway_tayyab)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-FF0080?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faraway_tayyab)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-00D4FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923417964379)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FF0080?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/im_Tayyabb)
+[![WeChat](https://img.shields.io/badge/WeChat%20%40im__Tayyab-00D4FF?style=for-the-badge&logo=wechat&logoColor=white)](https://wa.me/8615671276517)
+
+</div>
+
+<br>
+
+### 🚀 My Platforms
+
+<div align="center">
+
+[![Prep Titans LMS](https://img.shields.io/badge/Prep%20Titans%20LMS-FF0080?style=for-the-badge&logo=academia&logoColor=white)](https://preptitanslms.com)
+[![Titans Abroad](https://img.shields.io/badge/Titans%20Abroad-00D4FF?style=for-the-badge&logo=globe&logoColor=white)](https://titansabroad.org)
+
+</div>
 
 <br>
 

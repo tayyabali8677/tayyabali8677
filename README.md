@@ -33,6 +33,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00D4FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923417964379)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FF0080?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/im_Tayyabb)
 [![WeChat](https://img.shields.io/badge/WeChat%20%40im__Tayyab-00D4FF?style=for-the-badge&logo=wechat&logoColor=white)](https://wa.me/8615671276517)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0080?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrepTitans)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel%2036K%2B-00D4FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaaUIyM6GcGDJ1KbgG1t)
 
 </div>
 

@@ -1,19 +1,17 @@
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:7b2ff7,100:ff0080&height=300&section=header&text=Muhammad%20Tayyab%20Ali&fontSize=54&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=EdTech%20Founder%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=20">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:7b2ff7,100:ff0080&height=300&section=header&text=Muhammad%20Tayyab%20Ali&fontSize=54&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=EdTech%20Founder%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=20">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:7b2ff7,100:ff0080&height=300&section=header&text=Muhammad%20Tayyab%20Ali&fontSize=54&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=EdTech%20Founder%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Builder&descAlignY=58&descSize=20">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2ff7,100:ff0080&height=260&section=header&text=Muhammad%20Tayyab%20Ali&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=EdTech%20Founder%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Builder&descAlignY=56&descSize=19&stroke=7B2FF7&strokeWidth=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2ff7,100:ff0080&height=260&section=header&text=Muhammad%20Tayyab%20Ali&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=EdTech%20Founder%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Builder&descAlignY=56&descSize=19&stroke=7B2FF7&strokeWidth=2">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b2ff7,100:ff0080&height=260&section=header&text=Muhammad%20Tayyab%20Ali&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=EdTech%20Founder%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Builder&descAlignY=56&descSize=19&stroke=7B2FF7&strokeWidth=2">
 </picture>
-</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;Pakistan's+EdTech+Pioneer;AI+%26+Automation+Engineer;Founder+%40+Prep+Titans+%26+Titans+Abroad;Always+Building+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;Pakistan's+EdTech+Pioneer;AI+%26+Automation+Engineer;Founder+%40+Prep+Titans+%26+Titans+Abroad;Always+Building+Something+New)](https://git.io/typing-svg)
 
 <br>
 
 ![Currently Building](https://img.shields.io/badge/Currently%20Building-Prep%20Titans%20LMS-FF0080?style=flat-square&logo=rocket&logoColor=white)
-&nbsp;
+&nbsp;&nbsp;
 ![Open To](https://img.shields.io/badge/Open%20To-Collaborations-00D4FF?style=flat-square&logo=handshake&logoColor=white)
 
 </div>
@@ -22,20 +20,25 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
+<br>
 
 🎓 Building **[Prep Titans LMS](https://preptitanslms.com)** — Pakistan's #1 MDCAT prep platform  
-🌍 Founder of **[TitansAbroad.org](https://titansabroad.org)** — MBBS abroad guidance for Pakistani students  
+🌍 Founder of **[TitansAbroad.org](https://titansabroad.org)** — MBBS abroad guidance  
 🤖 Building AI-powered tools, WhatsApp bots & automations  
-🖥️ Creator of **Desktop Cat** — an Electron desktop companion  
+🖥️ Creator of **Desktop Cat** — Electron desktop companion  
 ⚡ Always shipping something new
 
+<br>
 </td>
 <td width="45%" valign="top">
+<br>
 
 ```javascript
 const tayyab = {
@@ -48,11 +51,16 @@ const tayyab = {
 }
 ```
 
+<br>
 </td>
 </tr>
 </table>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## ⚡ &nbsp;Tech Stack
 
@@ -61,13 +69,15 @@ const tayyab = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,electron,tailwind,sqlite,githubactions&perline=5&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,electron,tailwind,sqlite,githubactions&perline=5&theme=light" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,electron,tailwind,sqlite,githubactions&perline=5&theme=light" alt="Tech Stack Icons">
 </picture>
 
 <br><br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🌐 &nbsp;Connect With Me
 
@@ -80,20 +90,22 @@ const tayyab = {
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-FF0080?style=for-the-badge&logo=x&logoColor=white)](https://x.com/faraway_tayyab)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00D4FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923417964379)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0080?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrepTitans)
-[![WhatsApp Channel](https://img.shields.io/badge/Channel%2036K%2B-00D4FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaaUIyM6GcGDJ1KbgG1t)
+[![WA Channel 36K+](https://img.shields.io/badge/WA%20Channel%2036K%2B-00D4FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaaUIyM6GcGDJ1KbgG1t)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FF0080?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/im_Tayyabb)
-[![WeChat](https://img.shields.io/badge/WeChat%20%40im__Tayyab-00D4FF?style=for-the-badge&logo=wechat&logoColor=white)](https://wa.me/8615671276517)
+[![WeChat @im_Tayyab](https://img.shields.io/badge/WeChat%20%40im__Tayyab-00D4FF?style=for-the-badge&logo=wechat&logoColor=white)](https://wa.me/8615671276517)
 
 <br>
 
-[![Prep Titans LMS](https://img.shields.io/badge/%F0%9F%8E%93%20Prep%20Titans%20LMS-Pakistan's%20%231%20MDCAT%20Platform-FF0080?style=for-the-badge)](https://preptitanslms.com)
+[![Prep Titans LMS](https://img.shields.io/badge/%F0%9F%8E%93%20preptitanslms.com-Pakistan's%20%231%20MDCAT%20Platform-FF0080?style=for-the-badge)](https://preptitanslms.com)
 &nbsp;
-[![Titans Abroad](https://img.shields.io/badge/%F0%9F%8C%8D%20Titans%20Abroad-MBBS%20Abroad%20Guidance-00D4FF?style=for-the-badge)](https://titansabroad.org)
+[![Titans Abroad](https://img.shields.io/badge/%F0%9F%8C%8D%20titansabroad.org-MBBS%20Abroad%20Guidance-00D4FF?style=for-the-badge)](https://titansabroad.org)
 
 <br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📊 &nbsp;GitHub Stats
 
@@ -101,7 +113,7 @@ const tayyab = {
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tayyabali8677&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF0080&text_color=ffffff&ring_color=7B2FF7&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tayyabali8677&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF0080&text_color=ffffff&include_all_commits=true&count_private=true">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tayyabali8677&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=FF0080&include_all_commits=true">
 </picture>&nbsp;
 <picture>
@@ -119,7 +131,11 @@ const tayyab = {
 <br>
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🏆 &nbsp;GitHub Trophies
 
@@ -134,15 +150,19 @@ const tayyab = {
 <br>
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📈 &nbsp;Contribution Graph
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tayyabali8677&theme=react-dark&hide_border=true&custom_title=Muhammad%20Tayyab%20Ali%27s%20Contribution%20Graph&color=00D4FF&line=FF0080&point=7B2FF7&area=true&area_color=7B2FF7">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabali8677&theme=github-compact&hide_border=true&custom_title=Muhammad%20Tayyab%20Ali%27s%20Contribution%20Graph&color=555555&line=FF0080&point=7B2FF7&area=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tayyabali8677&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&color=00D4FF&line=FF0080&point=7B2FF7&area=true&area_color=7B2FF7">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tayyabali8677&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph&color=555555&line=FF0080&point=7B2FF7&area=true">
 </picture>
 
 <br>
@@ -156,7 +176,7 @@ const tayyab = {
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7b2ff7,100:00d4ff&height=200&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7b2ff7,100:00d4ff&height=200&section=footer">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0080,50:7b2ff7,100:00d4ff&height=200&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7b2ff7,100:00d4ff&height=160&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7b2ff7,100:00d4ff&height=160&section=footer">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7b2ff7,100:00d4ff&height=160&section=footer">
 </picture>
